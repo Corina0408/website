@@ -72,9 +72,12 @@ Detail in a few words the hardware used.
 
 ### Schematics
 
-![Hardware milestone](Schema_kicad.webp)
-![Hardware milestone](poza1.webp)
-![Hardware milestone](poza2.webp)
+![Hardware milestone](schema_kicad.svg)
+![Hardware milestone](poza1.svg)
+![Hardware milestone](poza2.svg![schema_kicad](https://github.com/user-attachments/assets/b1dda778-b985-44ba-9941-7c4726519369)
+![poza2](https://github.com/user-attachments/assets/fe352088-8703-4222-bb82-bce3b76e09b8)
+![poza1](https://github.com/user-attachments/assets/d9287f98-03cc-4523-a9e7-39d429951431)
+)
 
 ### Bill of Materials
 
